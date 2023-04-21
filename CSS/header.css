@@ -1,0 +1,85 @@
+@import './bases.css';
+
+.nav-menu {
+    width: 100%;
+    height: 12vh;
+    background-color: var(--color-primary);
+    border-bottom: solid 1px #2cc2b34d;
+    font-family: var(--font-padrao);
+    font-weight: var(--font-media);
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    
+}
+
+.logo {
+    color: white;
+    font-size: var(--logo-size);
+    font-weight: var(--font-forte);
+    text-align: center;
+    transition: all 0.2s ease;
+}
+.logo:hover{
+    color: yellowgreen;
+}
+.mobile-menu {
+    display: none;
+    position: relative;
+}
+.linhas{
+    width: 32px;
+    height: 2px;
+    background-color: yellowgreen;
+    margin: 8px;
+}
+.mobile-nav-list ul{
+    list-style: none;
+}
+
+
+
+.menu-nav-list ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.menu-nav-list ul li a {
+    color: rgb(112, 112, 112);
+    transition: all 0.2s ease;
+}
+
+.menu-nav-list ul li a:hover {
+    color: rgb(255, 255, 255);
+}
+
+.activeLink {
+    color: yellowgreen !important;
+}
+
+.baixar-cv {
+    background-color: white;
+    border: 0.5px solid black;
+    font-size: var(--font-padrao);
+    font-weight: var(--font-media);
+    padding: 5px;
+    border-radius: 5px;
+    transition: all 0.2s ease;
+}
+
+.baixar-cv:hover {
+    background-color: yellowgreen;
+    transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+    .menu-nav-list{
+        display: none;
+    }
+    .mobile-menu{
+        display: block;
+    }
+    
+}
