@@ -1,0 +1,131 @@
+{
+  "navigation": {
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "contact": "Contato",
+    "backToHome": "Voltar ao Início"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Escuro",
+    "system": "Sistema",
+    "toggleTheme": "Alternar tema"
+  },
+  "hero": {
+    "title": "Desenvolvedor Full Stack",
+    "subtitle": "Construo experiências digitais excepcionais que combinam design elegante com funcionalidade robusta.",
+    "cta": {
+      "contact": "Entre em Contato",
+      "projects": "Ver Meus Projetos"
+    }
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description1": "Sou um desenvolvedor apaixonado por tecnologia com 4 anos de experiência em desenvolvimento web e mobile. Especializado em criar aplicações robustas e escaláveis usando as melhores práticas e tecnologias modernas.",
+    "description2": "Tenho experiência tanto em frontend quanto backend, sempre buscando entregar soluções completas que resolvem problemas reais e proporcionam excelente experiência ao usuário.",
+    "downloadCV": "Baixar CV",
+    "personalInfo": {
+      "title": "Informações Pessoais",
+      "name": "Nome",
+      "age": "Idade",
+      "experience": "Experiência",
+      "specialty": "Especialidade"
+    }
+  },
+  "skills": {
+    "title": "Habilidades & Tecnologias",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Banco de Dados & Ferramentas"
+  },
+  "projects": {
+    "title": "Projetos em Destaque",
+    "viewMore": "Ver Mais Projetos",
+    "project1": {
+      "title": "Plataforma E-Commerce",
+      "description": "Solução completa de e-commerce com integração de pagamentos e painel administrativo."
+    },
+    "project2": {
+      "title": "App de Gestão de Tarefas",
+      "description": "Aplicação colaborativa de gestão de tarefas com atualizações em tempo real."
+    },
+    "project3": {
+      "title": "API REST com FastAPI",
+      "description": "API robusta e documentada para sistema de gestão empresarial."
+    },
+    "project4": {
+      "title": "Site Portfólio",
+      "description": "Site de portfólio moderno com modo escuro, internacionalização e design responsivo."
+    },
+    "project5": {
+      "title": "Dashboard do Clima",
+      "description": "Dashboard de clima com dados em tempo real, gráficos e previsões baseadas em localização."
+    },
+    "project6": {
+      "title": "Clone de Rede Social",
+      "description": "Aplicação full-stack de rede social com posts, comentários, curtidas e perfis de usuário."
+    },
+    "project7": {
+      "title": "App Fitness Mobile",
+      "description": "App de acompanhamento fitness multiplataforma com planos de treino, progresso e recursos sociais."
+    },
+    "project8": {
+      "title": "Dashboard Administrativo",
+      "description": "Dashboard administrativo completo com analytics, gestão de usuários e visualização de dados."
+    },
+    "project9": {
+      "title": "API de Microsserviços",
+      "description": "Arquitetura de microsserviços escalável com discovery, balanceamento de carga e monitoramento."
+    },
+    "project10": {
+      "title": "App de Chat em Tempo Real",
+      "description": "Aplicativo de mensagens em tempo real com grupos, compartilhamento de arquivos e notificações push."
+    },
+    "project11": {
+      "title": "Plataforma E-learning",
+      "description": "Plataforma de ensino online com videoaulas, acompanhamento de progresso e quizzes interativos."
+    },
+    "project12": {
+      "title": "Design System",
+      "description": "Design system completo com componentes reutilizáveis, documentação e integração com storybook."
+    },
+    "demo": "Demo",
+    "code": "Código",
+    "imagePlaceholder": "Imagem do Projeto"
+  },
+  "projectsPage": {
+    "title": "Meus Projetos",
+    "subtitle": "Explore meu portfólio de projetos, desde componentes simples de UI até aplicações complexas full-stack.",
+    "filters": {
+      "allCategories": "Todas as Categorias",
+      "uiProjects": "Projetos UI/UX",
+      "fullstackApps": "Apps Full Stack",
+      "mobileApps": "Apps Mobile",
+      "apisBackend": "APIs & Backend",
+      "allProjects": "Todos os Projetos",
+      "featured": "Destaques",
+      "recent": "Recentes",
+      "projectsFound": "projetos encontrados",
+      "projectFound": "projeto encontrado",
+      "noProjectsFound": "Nenhum projeto encontrado com os filtros selecionados.",
+      "clearFilters": "Limpar Filtros",
+      "selectCategory": "Selecionar categoria"
+    },
+    "featured": "Destaque"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "description": "Estou sempre interessado em novas oportunidades e projetos emocionantes. Vamos discutir como podemos trabalhar juntos!",
+    "sendEmail": "Enviar Email"
+  },
+  "footer": {
+    "copyright": "© 2024 Nicolas Bispo Magalhães. Construído com Next.js e Tailwind CSS."
+  },
+  "personal": {
+    "name": "Nicolas Bispo Magalhães",
+    "age": "24 anos",
+    "experience": "4 anos",
+    "specialty": "Full Stack"
+  }
+} 

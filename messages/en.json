@@ -1,0 +1,131 @@
+{
+  "navigation": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "backToHome": "Back to Home"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "toggleTheme": "Toggle theme"
+  },
+  "hero": {
+    "title": "Full Stack Developer",
+    "subtitle": "I build exceptional digital experiences that combine elegant design with robust functionality.",
+    "cta": {
+      "contact": "Get In Touch",
+      "projects": "View My Work"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description1": "I'm a passionate developer with 4 years of experience in web and mobile development. Specialized in creating robust and scalable applications using best practices and modern technologies.",
+    "description2": "I have experience in both frontend and backend development, always seeking to deliver complete solutions that solve real problems and provide excellent user experience.",
+    "downloadCV": "Download CV",
+    "personalInfo": {
+      "title": "Personal Information",
+      "name": "Name",
+      "age": "Age",
+      "experience": "Experience",
+      "specialty": "Specialty"
+    }
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Database & Tools"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "viewMore": "View More Projects",
+    "project1": {
+      "title": "E-Commerce Platform",
+      "description": "Complete e-commerce solution with payment integration and admin dashboard."
+    },
+    "project2": {
+      "title": "Task Management App",
+      "description": "Collaborative task management application with real-time updates."
+    },
+    "project3": {
+      "title": "REST API with FastAPI",
+      "description": "Robust and documented API for business management system."
+    },
+    "project4": {
+      "title": "Portfolio Website",
+      "description": "Modern portfolio website with dark mode, internationalization, and responsive design."
+    },
+    "project5": {
+      "title": "Weather Dashboard",
+      "description": "Beautiful weather dashboard with real-time data, charts, and location-based forecasts."
+    },
+    "project6": {
+      "title": "Social Media Clone",
+      "description": "Full-stack social media application with posts, comments, likes, and user profiles."
+    },
+    "project7": {
+      "title": "Mobile Fitness App",
+      "description": "Cross-platform fitness tracking app with workout plans, progress tracking, and social features."
+    },
+    "project8": {
+      "title": "Admin Dashboard",
+      "description": "Comprehensive admin dashboard with analytics, user management, and data visualization."
+    },
+    "project9": {
+      "title": "Microservices API",
+      "description": "Scalable microservices architecture with service discovery, load balancing, and monitoring."
+    },
+    "project10": {
+      "title": "Real-time Chat App",
+      "description": "Real-time messaging application with group chats, file sharing, and push notifications."
+    },
+    "project11": {
+      "title": "E-learning Platform",
+      "description": "Online learning platform with video courses, progress tracking, and interactive quizzes."
+    },
+    "project12": {
+      "title": "Design System",
+      "description": "Comprehensive design system with reusable components, documentation, and storybook integration."
+    },
+    "demo": "Demo",
+    "code": "Code",
+    "imagePlaceholder": "Project Image"
+  },
+  "projectsPage": {
+    "title": "My Projects",
+    "subtitle": "Explore my portfolio of projects, from simple UI components to complex full-stack applications.",
+    "filters": {
+      "allCategories": "All Categories",
+      "uiProjects": "UI/UX Projects",
+      "fullstackApps": "Full Stack Apps",
+      "mobileApps": "Mobile Apps",
+      "apisBackend": "APIs & Backend",
+      "allProjects": "All Projects",
+      "featured": "Featured",
+      "recent": "Recent",
+      "projectsFound": "projects found",
+      "projectFound": "project found",
+      "noProjectsFound": "No projects found with the selected filters.",
+      "clearFilters": "Clear Filters",
+      "selectCategory": "Select category"
+    },
+    "featured": "Featured"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "I'm always interested in new opportunities and exciting projects. Let's discuss how we can work together!",
+    "sendEmail": "Send Email"
+  },
+  "footer": {
+    "copyright": "© 2024 Nicolas Bispo Magalhães. Built with Next.js and Tailwind CSS."
+  },
+  "personal": {
+    "name": "Nicolas Bispo Magalhães",
+    "age": "24 years old",
+    "experience": "4 years",
+    "specialty": "Full Stack"
+  }
+} 
