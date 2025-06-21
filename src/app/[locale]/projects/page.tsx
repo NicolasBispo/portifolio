@@ -10,7 +10,8 @@ import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Button } from "@/components/ui/button";
 import { ExternalLink, Github, Globe, ArrowLeft } from "lucide-react";
 import Navbar from "@/components/shared/navbar";
-import { projects, type Project } from "@/data/projects";
+import { projects } from "@/data/projects";
+import Image from "next/image";
 
 export default function ProjectsPage() {
   const t = useTranslations();
@@ -133,10 +134,12 @@ export default function ProjectsPage() {
                   <Card key={project.id} className="overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
                     <div className="h-48 bg-muted flex items-center justify-center">
                       {project.image ? (
-                        <img 
+                        <Image
                           src={project.image} 
                           alt={t(project.titleKey)}
                           className="w-full h-full object-cover"
+                          width={500}
+                          height={500}
                         />
                       ) : (
                         <div className="flex items-center justify-center w-full h-full">
